@@ -10,6 +10,8 @@ Kelas : TI.18.A.3
 
 Dosen Pengampu  : Agung Nugroho,S.Kom.,M.Kom
 
+# Web Hosting : http://raficrud.epizy.com/
+
 Buatlah Aplikasi CRUD sederhana dengan ketentuan:
 
 1. Halaman HTML dan CSS berdasarkan mockup desain yang telah anda buat pada soal uts.
