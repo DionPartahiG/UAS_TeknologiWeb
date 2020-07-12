@@ -98,6 +98,39 @@ Membuat HTML
 ![image](https://user-images.githubusercontent.com/46708621/87243911-2c772180-c464-11ea-8a8d-b2ac9f3fc790.png)
 
 
+# Membuat index.php (Aplikasi Crud Mahasiswa)
+
+![image](https://user-images.githubusercontent.com/46708621/87243949-87a91400-c464-11ea-9032-022dc1799d4f.png)
+
+
+# Membuat koneksi.php
+
+![image](https://user-images.githubusercontent.com/46708621/87243988-c939bf00-c464-11ea-9814-27bd05f2212d.png)
+
+
+# Membuat form_simpan.php
+
+![image](https://user-images.githubusercontent.com/46708621/87244010-0736e300-c465-11ea-85c8-eb3772c94af8.png)
+
+
+# Membuat proses_simpan.php
+
+![image](https://user-images.githubusercontent.com/46708621/87244043-22a1ee00-c465-11ea-8ddc-57a3ad322a73.png)
+
+
+# Membuat proses_rubah.php
+
+![image](https://user-images.githubusercontent.com/46708621/87244073-3e0cf900-c465-11ea-8b02-17ccda419ef3.png)
+
+
+# Membuat proses_hapus.php
+
+![image](https://user-images.githubusercontent.com/46708621/87244100-567d1380-c465-11ea-95e4-02a5c5c72a94.png)
+
+
+# Terimakasih
+
+
 
 
 
