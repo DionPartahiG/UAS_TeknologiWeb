@@ -87,3 +87,9 @@ Membuat HTML
 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/46708621/80858280-aa5bc700-8c82-11ea-91a8-bcb4dbbabe87.png)
+
+# MOCKUP APLIKASI CRUD SEDERHANA
+
+![image](https://user-images.githubusercontent.com/46708621/87243880-d0ac9880-c463-11ea-8e54-f8a6b243ca89.png)
+
+
